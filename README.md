@@ -2,17 +2,21 @@
 
 # Hi 👋, I'm Anusha RD 
 
-### Data Analyst | Visualization & Analytics Expert
+### Aspiring Data Analyst & Software Tester
+**🔍 Exploring Insights Through Data | 🧪 Ensuring Quality Through Testing**
+
 
 </div>
 
-- 🔢 **Learning How to Turn Data Into Decisions**
+- 🔢 **Learning How to Turn Data Into Decisions**  
   
-- 🌱 **Expanding My Skills In**: Data Analytics, SQL, and Python
-  
-- 🎯 **Building Expertise In**: Data Storytelling & Dashboard Design
-  
-- 🔥 **Passionate About Learning**: Data Science & AI-Powered Analytics  
+- 🌱 **Expanding My Skills In**: Data Analytics, SQL, and Python  
+
+- 🎯 **Building Expertise In**: Data Storytelling & Dashboard Design  
+
+- 🧪 **Also Exploring**: Test Automation using Selenium & TestNG  
+
+- 🔥 **Passionate About Learning**: Data Science, AI-Powered Analytics & Quality Engineering  
 
 - 📄 **Check out my resume here** – [My Resume](https://drive.google.com/file/d/1Lsy75EVoRHcikDKv0_ZFXFvxyuhqS-Dc/view?usp=drivesdk)  
 - 💻 **Projects & Insights:** [GitHub](https://github.com/Anusha548)  
