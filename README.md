@@ -2,16 +2,19 @@
 
 ### 🌟 Data Analyst | Visualization & Analytics Expert
 
-🔍 **Learning How to Turn Data Into Decisions**  
+🔢 **Learning How to Turn Data Into Decisions**  
+
 📈 **Expanding My Skills In:** Data Analytics, SQL, and Python  
+
 📊 **Building Expertise In:** Data Storytelling & Dashboard Design  
+
 🔥 **Passionate About Learning:** Data Science & AI-Powered Analytics  
 
 ---
 
-📄 **Resume:** [Click to View](https://drive.google.com/file/d/1Lsy75EVoRHcikDKv0_ZFXFvxyuhqS-Dc/view?usp=drivesdk)  
-🔗 **LinkedIn:** [linkedin.com/in/anusha-rd-192896293](https://www.linkedin.com/in/anusha-rd-192896293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
-📬 **Email:** anushard4568@gmail.com  
+📄 **Check out my resume here -** [My Resume](https://drive.google.com/file/d/1Lsy75EVoRHcikDKv0_ZFXFvxyuhqS-Dc/view?usp=drivesdk)  
+🔗 **LinkedIn** [My linkedin Profile](https://www.linkedin.com/in/anusha-rd-192896293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+📬 **Reach out to me at** anushard4568@gmail.com  
 
 ---
 
