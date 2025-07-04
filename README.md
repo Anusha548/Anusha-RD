@@ -11,8 +11,8 @@
 - 🔥 **Passionate About Learning**: Data Science & AI-Powered Analytics  
 
 📄 **Check out my resume here** – [My Resume](https://drive.google.com/file/d/1Lsy75EVoRHcikDKv0_ZFXFvxyuhqS-Dc/view?usp=drivesdk)  
-💻 **Projects & Insights** [GitHub](https://github.com/Anusha548)  
-📬 **Reach out to me at** [anushard4568@gmail.com](mailto:anushard4568@gmail.com) 
+💻 **Projects & Insights:** [GitHub](https://github.com/Anusha548)  
+📬 **Reach out to me at**[anushard4568@gmail.com](mailto:anushard4568@gmail.com) 
 
 ---
 
