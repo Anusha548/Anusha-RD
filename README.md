@@ -1,6 +1,10 @@
+<div align="center">
+
 # Hi 👋, I'm Anusha RD 
 
 ### Data Analyst | Visualization & Analytics Expert
+
+</div>
 
 - 🔢 **Learning How to Turn Data Into Decisions**
   
