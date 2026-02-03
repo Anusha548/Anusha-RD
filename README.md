@@ -2,8 +2,8 @@
 
 # Hi 👋, I'm Anusha RD 
 
-### Aspiring Data Analyst & Software Tester
-**🔍 Exploring Insights Through Data | 🧪 Ensuring Quality Through Testing**
+### Aspiring Data Analyst
+**🔍 Exploring Insights Through Data**
 
 
 </div>
@@ -14,11 +14,9 @@
 
 - 🎯 **Building Expertise In**: Data Storytelling & Dashboard Design  
 
-- 🧪 **Also Exploring**: Test Automation using Selenium & TestNG  
+- 🔥 **Passionate About Learning**: Data Science, AI-Powered Analytics   
 
-- 🔥 **Passionate About Learning**: Data Science, AI-Powered Analytics & Quality Engineering  
-
-- 📄 **Check out my resume here** – [My Resume](https://drive.google.com/file/d/1Lsy75EVoRHcikDKv0_ZFXFvxyuhqS-Dc/view?usp=drivesdk)  
+- 📄 **Check out my resume here** – [My Resume](https://drive.google.com/file/d/1aCYcSNyHAGPzFAzIdZnOTNpdkw3YFqHG/view?usp=drive_link)  
 - 💻 **Projects & Insights:** [GitHub](https://github.com/Anusha548)  
 - 📬 **Reach out to me at** [anushard4568@gmail.com](mailto:anushard4568@gmail.com) 
 
@@ -35,15 +33,11 @@
 ### 🛠 Programming & Databases
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🧪 Testing & Dev Tools
 
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6C37?style=for-the-badge)
 ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
